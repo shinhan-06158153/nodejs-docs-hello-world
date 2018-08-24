@@ -16,6 +16,6 @@
         "build": "pkg ."
     },
     "dependencies": {
-        "pkb": "^4.3.4"
+        "pkg": "^4.3.4"
     }
 }
